@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Spinner_Demo</string>
+    <string name="select_language">Select Language:</string>
+    <string name="banner">banner</string>
+    <string name="select_your_spinner_spot">Select your Spinner Spot</string>
+    <string name="simple_spinner">Simple Spinner</string>
+    <string name="custom_spinner">Custom Spinner</string>
+    <string name="india">India</string>
+    <string name="united_kingdom">United Kingdom</string>
+
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+    </string-array>
+
+    <string-array name="countries">
+        <item>All Countries</item>
+        <item>India</item>
+        <item>USA</item>
+        <item>Australia</item>
+        <item>UK</item>
+        <item>China</item>
+    </string-array>
+
+    <string-array name="countries2">
+        <item>All Countries</item>
+        <item>India</item>
+        <item>USA</item>
+        <item>Australia</item>
+        <item>UK</item>
+        <item>China</item>
+    </string-array>
+</resources>
